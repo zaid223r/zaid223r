@@ -75,7 +75,6 @@
 
 ### 🚀 Notable Projects
 
-- **🗳️ Iraqi Parliament Voting System** – Full-featured system with Firebase, OTP, permissions, audit logs, and more (2025).
 - **🧠 AI-powered ADHD Training App (VR & Mobile)** – Full system integrating **Unity VR**, ML, and backend data reporting (2025).
 - **📦 Bridgr (Open Source)** – Golang library to simplify backend + auto-generate React frontend components from APIs (2025).
 
