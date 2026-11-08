@@ -1,91 +1,33 @@
-<h1 align="center">Hi 👋, I'm Zaid Zuhair</h1>
-<h3 align="center">🚀 Network Engineer | AI/ML Developer | Backend Engineer (.NET & Django) | VR Developer</h3>
+# Hi, I'm Zaid Zuhair
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaid223r&label=Profile%20views&color=0e75b6&style=flat" alt="zaid223r" />
-</p>
+Software engineer. I build backends in **.NET (C#)** and **Go**, mobile apps in **Flutter**, and
+work with **PostgreSQL** every day. I'm also interested in **AI/ML** and **VR**, and have built
+projects in both.
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=zaid223r" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=zaid223r&theme=onedark" alt="zaid223r trophies" />
-  </a>
-</p>
+## Featured project
 
----
+### [Bridgr](https://github.com/zaid223r/Bridgr)
 
-### 👨‍💻 About Me
+A Go library that turns structs into documented REST APIs with one line per resource:
+generic CRUD, opt-in filtering, OpenAPI with Swagger UI, RFC 9457 error responses, and
+pluggable storage (in-memory, SQLite, PostgreSQL). Early development, being rebuilt in public.
 
-- 🔭 Currently leading the development of a **secure national voting system** for Iraq’s Parliament (Jul-Aug 2025).
-- 🌱 Learning & building with **Advanced APIs, Clean Architecture, CQRS**, and **Golang**.
-- 🧠 Passionate about **AI-driven systems**, **VR for mental health**, and **high-performance backends**.
-- 💬 Ask me about:  
-  `Python`, `C#`, `Django`, `.NET 8`, `Unity VR`, `Machine Learning`, `System Design`, and `API Development`.
-- 📫 Reach me at: **zaidzuhairalani@gmail.com**
-- 📄 Check my resume and experience: [LinkedIn](https://www.linkedin.com/in/zaid-zuhair-al-ani-359178247/)
+## Other work
 
----
+- **ADHD training app (VR + mobile)**: Unity VR exercises with ML-based analysis and a backend
+  for progress reporting.
+- **Rust API**: [Axum + SQLx REST API](https://github.com/zaid223r/Rust) with JWT auth on PostgreSQL.
 
-### 🌐 Connect With Me
+## Stack
 
-<p align="left">
-  <a href="https://linkedin.com/in/zaid-zuhair-al-ani-359178247" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-</p>
+- **Backend:** C# / .NET, ASP.NET Core, Go, Rust, Python
+- **Mobile:** Flutter (iOS, Android)
+- **Web:** React, TypeScript, Vite
+- **Data:** PostgreSQL
+- **AI/ML & VR:** Python, scikit-learn, TensorFlow, Unity, XR Interaction Toolkit
+- **Tooling:** Docker, Git, GitHub Actions, Linux
 
----
+## Contact
 
-### 🛠️ Tech Stack
-
-#### 💻 Languages
-`Python` `C#` `Java` `JavaScript` `C` `SQL`
-
-#### 🧰 Frameworks & Libraries
-`Django` `FastAPI` `Flask` `.NET 8` `ASP.NET Core` `TensorFlow` `Scikit-Learn` `Pandas`
-
-#### 🕶️ VR Development
-`Unity Engine` `C# for Unity` `XR Toolkit` `VR Interaction Design`
-
-#### 🗃️ Databases
-`PostgreSQL` `MySQL` `MSSQL` `SQLite`
-
-#### ⚙️ Tools & Platforms
-`Docker` `Git` `Linux` `Postman` `Firebase` `Heroku`
-
-#### 📊 Others
-`Matlab` `Flutter` `React (basic)` `GetX` `TailwindCSS` `CI/CD` `Clean Architecture`
-
----
-
-### 📈 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid223r&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zaid223r&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid223r&" alt="GitHub Streak" />
-</p>
-
----
-
-### 🚀 Notable Projects
-
-- **🧠 AI-powered ADHD Training App (VR & Mobile)** – Full system integrating **Unity VR**, ML, and backend data reporting (2025).
-- **📦 Bridgr (Open Source)** – Golang library to simplify backend + auto-generate React frontend components from APIs (2025).
-
----
-
-### 🤝 Open to
-
-- 🧠 Freelance / Consulting in Backend, AI/ML & VR
-- 🤝 Collaborations on open-source
-- 📢 Speaking engagements (AI, VR, Clean Architecture, Django/.NET)
-
----
-
-> "Build with purpose, automate with logic, and lead with heart." – Zaid Zuhair
+- Email: [zaidzuhairalani@gmail.com](mailto:zaidzuhairalani@gmail.com)
+- LinkedIn: [zaid-zuhair-al-ani](https://www.linkedin.com/in/zaid-zuhair-al-ani-359178247/)
